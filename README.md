@@ -1,3 +1,3 @@
 ↓ポートフォリオサイト↓
 
-https://seira20071004-cyber.github.io/my-portfolio/
+https://seira20071004-cyber.github.io/SoraUchidaPortfolioSite/
